@@ -1,0 +1,6 @@
+<body class="main-layout">
+    <!-- loader  -->
+    <div class="loader_bg">
+       <div class="loader"><img src="home/images/loading.gif" alt="#"/></div>
+    </div>
+    <!-- end loader --><?php /**PATH /home/u160536160/domains/mine-pool.io/public_html/core/resources/views/parts/body.blade.php ENDPATH**/ ?>
