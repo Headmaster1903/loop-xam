@@ -1,3 +1,5 @@
+**[HEADMASTER](https://github.com/Headmaster1903):** _follow me for a follow back_ 
+
 # DON'T BOTHER TO KNOW WHAT'S IN THIS SCRIPT
 
 ## BUT YOU CAN CHECK AND SEE
